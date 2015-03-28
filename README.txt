@@ -8,4 +8,4 @@ Git who?
 
 Git on with the assignment!
 
-Git this over, the joke.
+Git this over with.
